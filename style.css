@@ -1,0 +1,149 @@
+
+*{
+	font-family: sans-serif;
+	box-sizing: border-box;
+}
+
+form {
+	width: 500px;
+	
+	padding: 30px;
+		border-radius: 15px;
+}
+
+h2 {
+	text-align: center;
+	margin-bottom: 40px;
+}
+select{
+    display: block;
+    border: 2px solid black;
+    border-radius: 6px;
+    outline: none;
+    font-size: 16px;
+    width: 80%;
+    margin: 11px 0px;
+    padding: 7px;
+    padding-top: 20px;
+}
+input {
+	display: block;
+	border: 2px solid #ccc;
+	width: 95%;
+	padding: 10px;
+	margin: 10px auto;
+	border-radius: 5px;
+}
+lable{
+margin-left:30px;
+}
+
+button:hover{
+	opacity: .7;
+}
+.error {
+   background: #F2DEDE;
+   color: #A94442;
+   padding: 10px;
+   width: 95%;
+   border-radius: 5px;
+   margin: 20px auto;
+}
+
+.success {
+   background: #D4EDDA;
+   color: #40754C;
+   padding: 10px;
+   width: 95%;
+   border-radius: 5px;
+   margin: 20px auto;
+}
+
+h1 {
+	text-align: center;
+	color: #fff;
+}
+body{
+    background-color: #967bb6;
+    width:100%;
+    height:98%;
+
+}
+body {
+    overflow-x: hidden; 
+}
+
+.quote{
+   
+    margin-left:60%;
+    flex: 1;
+    height:500px;
+   margin-top:-30%;
+    margin-right:15%;
+    text-align: right;
+max-width: 40%; 
+    max-height: 400px;
+float:right;
+}
+
+
+.register{
+    width: 40%; 
+    height: 450px;
+    flex: 1;
+    margin-left: 10%;
+         
+    background-color: whitesmoke;
+    border-radius: 25px; 
+}
+
+ h1 {
+    font-family: 'Sriracha', cursive;
+    font-size: 35px;
+    color: whitesmoke;
+}
+
+
+p{
+    font-size: 17px;
+    text-align: center;
+    font-family: 'Sriracha', cursive;
+}
+
+input{
+    
+    border: 2px solid black;
+    border-radius: 6px;
+    outline: none;
+    font-size: 16px;
+    width: 80%;
+    margin: 11px 0px;
+    padding: 7px;
+    padding-top: 20px;
+}
+.quotation{
+font-size:60px;
+}
+button:hover{
+	opacity: .7;
+}
+button{
+    color: white;
+    background:#967bb6;
+    padding: 8px 12px;
+    font-size: 20px;
+    border: 2px solid white;
+    border-radius: 14px;
+    cursor: pointer;
+}
+
+.ca {
+	font-size: 14px;
+	display: inline-block;
+	padding: 10px;
+	text-decoration: none;
+	color: #444;
+}
+.ca:hover {
+	text-decoration: underline;
+} 
