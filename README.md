@@ -11,7 +11,7 @@ BootStarp
 PHP
 MYSQL
 
-# These are some of the sample Images
+## These are some of the sample Images
 ### Front page
 ![Screenshot (77)](https://github.com/tan-taniya-tan/MemTech/assets/147307773/a2b845ee-fc87-4a35-a2b3-626e0ddf574d)
 ![Screenshot (78)](https://github.com/tan-taniya-tan/MemTech/assets/147307773/c60fb4a9-76c5-475d-a7e9-f3e03c67f511)
